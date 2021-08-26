@@ -4,7 +4,9 @@
    - Vá na aplicação "Acesso a chave" no macbook
    - clique em: Acesso às chaves -> Assistente do certificado -> Solicitar um certificado de uma autoridade de certificação
     - Informe o email e nome comum e selecione salvar no disco.
- - Registrando o CertificateSigningRequest.certSigningRequest no developer
+ 
+ Registrando o CertificateSigningRequest.certSigningRequest no developer
+ 
  - entre em https://developer.apple.com/account
  - Certificates, Identifiers & Profiles
  - clique em (+)
